@@ -11,5 +11,5 @@ document.getElementById("parakareka").addEventListener("mouseover", function(){
 });
 
 document.getElementById("gooty").addEventListener("mouseover", function(){
-  document.getElementById("artinfo").innerHTML = "<h1> Gooty</h1> <p> Mauris faucibus tincidunt lectus nec efficitur. Integer sed elit hendrerit, tempor sem a, sodales nibh. Nam a lorem urna. Vestibulum maximus purus leo, at condimentum augue lacinia at. Nullam congue ut tellus eu feugiat. Nulla eget nisi imperdiet, condimentum turpis eu, efficitur ipsum. Nam sit amet vulputate ex. <a href= '#'>More information.</a></p>";
+  document.getElementById("artinfo").innerHTML = "<h1> Sapphire Gooty</h1> <p> Mauris faucibus tincidunt lectus nec efficitur. Integer sed elit hendrerit, tempor sem a, sodales nibh. Nam a lorem urna. Vestibulum maximus purus leo, at condimentum augue lacinia at. Nullam congue ut tellus eu feugiat. Nulla eget nisi imperdiet, condimentum turpis eu, efficitur ipsum. Nam sit amet vulputate ex. <a href= '#'>More information.</a></p>";
 });
